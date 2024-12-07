@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:icon="@drawable/math_svg"
+        android:title="Math" />
+    <item
+        android:id="@+id/Math_Tutorial"
+        android:icon="@drawable/mathtutor_svg"
+        android:title="Tutorial" />
+
+    <item
+        android:id="@+id/Leaderbords"
+        android:icon="@drawable/leaderboard_svg"
+        android:title="Leaderboard" />
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/person_svg"
+        android:title="Profile"/>
+</menu>
